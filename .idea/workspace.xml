@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/Contasegundos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/Conversao_temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/entrada_nomes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 2/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 2/fatura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 2/segundos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 2/medias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 2/quadrado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/Contasegundos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/Contasegundos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Program Files/JetBrains/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager" selected="Python.Contasegundos">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Github\Python\Curso\Desafios\Semana 2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.segundos">
     <configuration name="Contasegundos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Conversao_temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Entradas de dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/Conversao_temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 2/fatura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aritmeticos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="medias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Operadores aritiméticos e relacionais" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios/Avaliação - Semana 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Github\Python\Curso\Aulas\Operadores aritiméticos e relacionais\aritmeticos.py" />
+      <option name="SCRIPT_NAME" value="C:\Github\Python\Curso\Exercícios\Avaliação - Semana 2\medias.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="entrada_nomes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quadrado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Entradas de dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios/Avaliação - Semana 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Entradas de dados/entrada_nomes.py" />
+      <option name="SCRIPT_NAME" value="C:\Github\Python\Curso\Exercícios\Avaliação - Semana 2\quadrado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="soma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="segundos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Somador" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Somador/soma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 2/segundos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.segundos" />
+        <item itemvalue="Python.fatura" />
+        <item itemvalue="Python.medias" />
+        <item itemvalue="Python.area_quadrado" />
         <item itemvalue="Python.Contasegundos" />
-        <item itemvalue="Python.entrada_nomes" />
-        <item itemvalue="Python.Conversao_temp" />
-        <item itemvalue="Python.soma" />
-        <item itemvalue="Python.aritmeticos" />
       </list>
     </recent_temporary>
   </component>
