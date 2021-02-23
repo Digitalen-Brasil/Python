@@ -22,7 +22,7 @@ if fds == 'sim':
 # Se não for final de semana:
 elif fds == 'não':
 
-# Vai receber se o argumento se é feriado sim ou não
+# Vai receber o argumento se é feriado sim ou não
     feriado = input('É feriado? ')
     fer = feriado.strip().lower() # Converte para minúsculo e remove espaços
 
