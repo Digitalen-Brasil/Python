@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/tempoJogo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="C:\Github\Python\Curso\Desafios\Semana 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.raizQuadrada">
     <configuration name="raizQuadrada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.teste" />
         <item itemvalue="Python.raizQuadrada" />
+        <item itemvalue="Python.teste" />
         <item itemvalue="Python.tempoJogo" />
       </list>
     </recent_temporary>
