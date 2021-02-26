@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 3/bhaskara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 3/pontos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/paridade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +43,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Program Files/JetBrains/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso/Desafios/Semana 3" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\Python\Curso\Desafios\Semana 3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Github\Python\Curso\Aulas\Semana 2" />
       <recent name="C:\Github\Python\Curso\Aulas\Semana 3" />
@@ -49,8 +58,8 @@
       <recent name="C:\Github\Python\Curso\Desafios\Semana 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.raizQuadrada">
-    <configuration name="raizQuadrada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bhaskara">
+    <configuration name="bhaskara" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 3/bhaskara.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tempoJogo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/tempoJogo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +109,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ordenacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pontos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 3/pontos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,9 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.raizQuadrada" />
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.tempoJogo" />
+        <item itemvalue="Python.bhaskara" />
+        <item itemvalue="Python.pontos" />
+        <item itemvalue="Python.ordenacao" />
+        <item itemvalue="Python.fizzbuzz" />
+        <item itemvalue="Python.buzz" />
       </list>
     </recent_temporary>
   </component>
