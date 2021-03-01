@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 3/bhaskara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 3/pontos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/paridade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 4/multiplicacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 4/potencia2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 4/soma.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,7 @@
       <recent name="C:\Github\Python\Curso\Desafios\Semana 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bhaskara">
+  <component name="RunManager" selected="Python.multiplicacao">
     <configuration name="bhaskara" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiplicacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,53 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ordenacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 4/multiplicacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,13 +118,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="potencia2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 4/potencia2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Github\Python\Curso\Aulas\Semana 4\soma.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiplicacao" />
+        <item itemvalue="Python.somasequencia" />
+        <item itemvalue="Python.potencia2" />
         <item itemvalue="Python.bhaskara" />
         <item itemvalue="Python.pontos" />
-        <item itemvalue="Python.ordenacao" />
-        <item itemvalue="Python.fizzbuzz" />
-        <item itemvalue="Python.buzz" />
       </list>
     </recent_temporary>
   </component>
