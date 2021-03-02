@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Atividades avaliativas semana 4">
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/fatorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/n_impares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/somaDigitos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 4/primalidade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,28 +52,7 @@
       <recent name="C:\Github\Python\Curso\Aulas\Semana 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.somaDigitos">
-    <configuration name="digitosAdjacentes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Github\Python\Curso\Aulas\Exercícios extras de aulas\Semana 4\digitosAdjacentes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.primalidade">
     <configuration name="fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +116,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="primalidade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 4/primalidade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="somaDigitos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.primalidade" />
         <item itemvalue="Python.somaDigitos" />
         <item itemvalue="Python.n_impares" />
         <item itemvalue="Python.potencia2" />
         <item itemvalue="Python.fatorial" />
-        <item itemvalue="Python.digitosAdjacentes" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614704327082</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atividades avaliativas semana 4">
+      <created>1614707458661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614707458662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
