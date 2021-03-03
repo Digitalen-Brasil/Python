@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Atividades avaliativas semana 4">
-      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 4/primalidade.py" afterDir="false" />
+    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante">
+      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 4/digitos_adjacentes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,8 @@
       <recent name="C:\Github\Python\Curso\Aulas\Semana 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.primalidade">
-    <configuration name="fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.digitosAdjacentes">
+    <configuration name="digitosAdjacentes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +62,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/fatorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digitos_adjacentes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 4/digitos_adjacentes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,27 +109,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/n_impares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="potencia2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 4/potencia2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.digitosAdjacentes" />
+        <item itemvalue="Python.digitos_adjacentes" />
         <item itemvalue="Python.primalidade" />
         <item itemvalue="Python.somaDigitos" />
         <item itemvalue="Python.n_impares" />
-        <item itemvalue="Python.potencia2" />
-        <item itemvalue="Python.fatorial" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614707458662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante">
+      <created>1614708835621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614708835621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +218,7 @@
     <MESSAGE value="Relocação de pastas" />
     <MESSAGE value="Realocação de pastas" />
     <MESSAGE value="Atividades avaliativas semana 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atividades avaliativas semana 4" />
+    <MESSAGE value="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante" />
   </component>
 </project>

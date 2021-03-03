@@ -1,22 +1,22 @@
 # Desafio para encontrar números adjacentes iguais
-## EXERCICIO AINDA SEM COMPREENSÃO TOTAL
+## ATUALIZADO COM DEBUG APRENDIDO NO DESAFIO DA SEMANA 4
 
-numero = n = int(input('Digite o número que você deseja analisar: '))
+numero = int(input('Digite o número que você deseja analisar: '))
 
-ultimo = numero % 10
-n = numero // 10
+sobraAntiga = numero % 10
+inteiro = numero // 10
 
 adjIguais = False
 contagemIguais = 0
 
-while (n > 0 and not adjIguais):
-    atual = n % 10
-    if atual == ultimo:
+while (inteiro > 0 and not adjIguais):
+    atual = inteiro % 10
+    if atual == sobraAntiga:
         adjIguais = True
     else:
         contagemIguais += 1
-    ultimo = atual
-    n = n // 10
+    sobraAntiga = atual
+    inteiro = inteiro // 10
 
 if adjIguais:
     print(numero, "tem dois digitos", atual, "adjacentes")
