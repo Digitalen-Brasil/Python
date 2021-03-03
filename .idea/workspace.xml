@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante">
-      <change afterPath="$PROJECT_DIR$/Curso/Desafios/Semana 4/digitos_adjacentes.py" afterDir="false" />
+    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Desafio de digitos adjacentes e atualização do exercício anterior.">
+      <change afterPath="$PROJECT_DIR$/Curso/Aulas/Semana 5/funSoma.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <recent name="C:\Github\Python\Curso\Aulas\Semana 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.digitosAdjacentes">
+  <component name="RunManager" selected="Python.funSoma">
     <configuration name="digitosAdjacentes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n_impares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funSoma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Aulas/Semana 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/n_impares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Aulas/Semana 5/funSoma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.funSoma" />
         <item itemvalue="Python.digitosAdjacentes" />
         <item itemvalue="Python.digitos_adjacentes" />
         <item itemvalue="Python.primalidade" />
         <item itemvalue="Python.somaDigitos" />
-        <item itemvalue="Python.n_impares" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614708835621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Desafio de digitos adjacentes e atualização do exercício anterior.">
+      <created>1614782247383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614782247383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +225,7 @@
     <MESSAGE value="Realocação de pastas" />
     <MESSAGE value="Atividades avaliativas semana 4" />
     <MESSAGE value="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante" />
+    <MESSAGE value="Desafio de digitos adjacentes e atualização do exercício anterior." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio de digitos adjacentes e atualização do exercício anterior." />
   </component>
 </project>
