@@ -6,6 +6,7 @@ print('A forma geral da equação de segundo grau é: \033[1max² + bx - c = 0\0
 
 def delta(a, b, c): # Define a função para calcular Delta
     return (b ** 2) - (4 * a * c)
++
 
 def main():
     # Entrada das constantes pelo usuário
