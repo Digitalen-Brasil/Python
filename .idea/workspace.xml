@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Exemplo simples de função">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Exercícios extras de aulas/Semana 4/digitosAdjacentes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 4/quebraNumeroGrande.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Exercícios extras de aulas/Semana 4/quebraNumeroGrande.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Exercícios extras de aulas/Semana 5/coeficienteBinominal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Exercícios extras de aulas/Semana 5/coeficienteBinominal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Ola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Ola_mundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 1/Somador/soma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 1/Somador/soma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 2/Entradas de dados/Contasegundos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 2/Entradas de dados/Contasegundos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 2/Entradas de dados/Conversao_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 2/Entradas de dados/Conversao_temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 2/Entradas de dados/entrada_nomes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 2/Entradas de dados/entrada_nomes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 2/Operadores aritiméticos e relacionais/aritmeticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 2/Operadores aritiméticos e relacionais/aritmeticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 3/Condicional (if)/raizQuadrada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 3/Condicional (if)/tempoJogo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 3/Condicional (if)/tempoJogo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 4/cartaoCredito.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 4/cartaoCredito.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 4/decrescente.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 4/decrescente.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 4/multiplicacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 4/multiplicacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 4/potencia2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 4/potencia2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 4/soma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 4/soma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 5/Pytest/py_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 5/Pytest/py_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 5/funSoma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 5/funSoma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 6/bhaskara_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 6/bhaskara_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 7/Func_novoFatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 7/Func_novoFatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 7/decomposicao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 7/decomposicao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 7/ePrimo_laco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 7/ePrimo_laco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 7/novoFatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 7/novoFatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 7/tabuada_mult.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 7/tabuada_mult.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Aulas/Semana 8/lista_inversa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Aulas/Semana 8/lista_inversa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Extras/comparacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Extras/comparacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Extras/investigacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Extras/investigacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Extras/irPraia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Extras/irPraia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 2/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 2/dezenas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 2/fatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 2/fatura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 2/segundos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 2/segundos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 3/bhaskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 3/bhaskara.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 3/pontos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 3/pontos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 4/digitos_adjacentes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 4/digitos_adjacentes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 4/primalidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 4/primalidade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 5/FizzBuzz_funcao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 5/FizzBuzz_funcao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 5/maximo_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 5/maximo_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 7/conta_primos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 7/conta_primos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 7/soma_hipotenusas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 7/soma_hipotenusas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 8/inverte.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 8/inverte.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Desafios/Semana 8/maior_elemento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Desafios/Semana 8/maior_elemento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 2/medias.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 2/medias.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 2/quadrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 2/quadrado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 3/buzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 3/fizz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 3/fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 3/ordenacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 3/paridade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 3/paridade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/fatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 4/fatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/n_impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 4/n_impares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 4/somaDigitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 4/somaDigitos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 5/maior_primo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 5/maior_primo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 5/maximo_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 5/maximo_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 5/vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 5/vogais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 6/jogo_nim.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 6/jogo_nim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 7/imprime_retangulo_cheio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 7/imprime_retangulo_cheio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 7/imprime_retangulo_vazado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 7/imprime_retangulo_vazado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 8/remove_repetidos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 8/remove_repetidos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 8/soma_elementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/Parte 1/Exercícios Avaliativos/Avaliação - Semana 8/soma_elementos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Exemplo simples de função" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,15 +34,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso/Exercícios Avaliativos/Avaliação - Semana 7" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso em Video/Mundo 1/Exercícios" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\Python\Curso em Video\Mundo 1\Exercícios" />
+      <recent name="C:\Github\Python\Curso em Video\Mundo 1\Desafios" />
       <recent name="C:\Github\Python\Curso\Exercícios Avaliativos\Avaliação - Semana 7" />
       <recent name="C:\Github\Python\Curso\Aulas\Semana 6" />
       <recent name="C:\Github\Python\Curso\Aulas\Exercícios extras de aulas\Semana 5" />
-      <recent name="C:\Github\Python\Curso\Desafios\Semana 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Github\Python\Curso em Video\Mundo 1" />
@@ -421,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617986171402</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Criação das pastas do Curso em video">
+      <created>1617986368933</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1617986368933</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Criação das pastas do Curso em video">
+      <created>1617986398532</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617986398532</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +391,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Atividades avaliativas semana 4" />
     <MESSAGE value="Desafio extra semana 4. &#10;&#10;Procurar solução mais elegante" />
     <MESSAGE value="Desafio de digitos adjacentes e atualização do exercício anterior." />
     <MESSAGE value="Exemplo simples de função" />
@@ -462,7 +415,8 @@
     <MESSAGE value="Soma de números de uma lista" />
     <MESSAGE value="Atividades extras da semana 8" />
     <MESSAGE value="Refatoração do Git. Relocação dos itens para pasta Coursera" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refatoração do Git. Relocação dos itens para pasta Coursera" />
+    <MESSAGE value="Criação das pastas do Curso em video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação das pastas do Curso em video" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
