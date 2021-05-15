@@ -93,57 +93,65 @@ def compara_assinatura(as_a, as_b):
 def calcula_assinatura(texto):
     '''IMPLEMENTAR. Essa funcao recebe um texto e deve devolver a assinatura do texto.'''
 
-    # SEPARA AS PALAVRAS DO TEXTO E GUARDA NA VARIÁVEL
-    palavras = separa_palavras(texto)
-
-    # Remove a pontuação e espaços das strings no texto
-    palavras_texto = [''.join(c for c in s if c not in string.punctuation) for s in palavras]
-    # SOMA O TOTAL DE PALAVRAS NO TEXTO, SEM A PONTUAÇÃO
-    total_palavras_texto = len(palavras_texto)
-
-    # SEPARA OS CARACTERES DAS PALAVRAS E SOMA O TOTAL DELAS
-    n_caracteres = 0
-    for i in range(total_palavras_texto):
-        n_caracteres += len(palavras_texto[i])
-
-    # VAI USAR A FUNÇÃO "PALAVRAS DIFERENTES" PARA CALCULAR AS "PALAVRAS DO TEXTO" DEFINIDAS ANTES
-    diferentes = n_palavras_diferentes(palavras_texto)
-
-    # VAI USAR A FUNÇÃO "PALAVRAS UNICAS" PARA CALCULAR AS "PALAVRAS DO TEXTO" DEFINIDAS ANTES
-    unicas = n_palavras_unicas(palavras_texto)
-
-    # SEPARA AS SENTENÇAS DO TEXTO, E SOMA O TOTAL DELAS
+    # SENTENÇA - INICIO
     sentencas = separa_sentencas(texto)
     total_sentencas = len(sentencas)
-
-    # CONTA TODOS OS CARACTERES DA SENTENÇA. É DIFERENTE DOS CARACTERES CALCULADOS ANTES
-
-    # string.punctuation remove a pontuação, o calculo dos caracteres irá desconsiderar eles
-    sent_caracteres = [''.join(c for c in s if c not in string.punctuation) for s in sentencas]
-    caracteres_sem_pontuacao = 0
 
     caracteres_sentenca = 0
     for i in range(total_sentencas):
         caracteres_sentenca += len(sentencas[i])
-        caracteres_sem_pontuacao += len(sent_caracteres[i])  # sent_caracteres são as sentenças sem pontuação
+    # SENTENÇA - FIM
 
-    # SEPARA AS FRASES DA SENTENÇA
-    total_frases_sentenca = 0
-    for sentenca in sentencas:
-        total_frases_sentenca += len(separa_frases(sentenca))
+    # FRASES - INICIO
+    frases = []
+    ## Para cada frase encontrado dentro do range "sentenças", ela será incluida na lista 'frases'.
+    for fr in range(len(sentencas)):
+        frases_sentencas = separa_frases(sentencas[fr])
+        for f in range(len(frases_sentencas)):
+            frases.append(frases_sentencas[f])
 
+    total_frases_sentenca = len(frases)
 
-    media_palavras = n_caracteres / total_palavras_texto # Todos os caracteres / Todas as palavras do texto
+    caracteres_frases = 0
+    for i in range(total_frases_sentenca):
+        caracteres_frases += len(frases[i])
+
+    # FRASES - FIM
+
+    # PALAVRAS - INICIO
+    ## Para cada palavras encontrado dentro do range "frases", ela será incluida na lista 'palavras'.
+    palavras = []
+    for pl in range(len(frases)):
+        palavras_sentencas = separa_palavras(frases[pl])
+        for p in range(len(palavras_sentencas)):
+            palavras.append(palavras_sentencas[p])
+
+    total_palavras_texto = len(palavras)
+
+    ## Calcular todos os caracteres dentro da lista 'palavras'
+    n_caracteres_palavras = 0
+    for c in range(len(palavras)):
+        n_caracteres_palavras += len(palavras[c])
+
+    ## Irá buscar as palavras diferentes dentro da lista 'palavras'
+    diferentes = n_palavras_diferentes(palavras)
+
+    ## Irá buscar as palavras unicas dentro da lista 'palavras'
+    unicas = n_palavras_unicas(palavras)
+
+    # PALAVRAS - FIM
+
+    media_palavras = n_caracteres_palavras / total_palavras_texto # Todos os caracteres / Todas as palavras do texto
     relacao_type_token = diferentes/total_palavras_texto # Palavras diferentes no texto / Todas as palavras
     hapax_legomana = unicas/total_palavras_texto # Palavras únicas no texto / Todas as palavras
     tamanho_media_sentencas = caracteres_sentenca / total_sentencas # Todos os caracteres / Todas as sentenças no texto
 
     complexidade_media_sentenca = total_frases_sentenca / total_sentencas # Todas as frases / Todas as sentenças
-    tamanho_medio_frases = caracteres_sem_pontuacao / total_frases_sentenca # Todos os caracteres / Todas as frases
+    tamanho_medio_frases = caracteres_frases / total_frases_sentenca # Todos os caracteres / Todas as frases
 
     assinatura = [media_palavras,relacao_type_token,hapax_legomana,tamanho_media_sentencas,
                   complexidade_media_sentenca,tamanho_medio_frases]
-    print(assinatura)
+
     return assinatura
 
 
@@ -152,24 +160,25 @@ def avalia_textos(textos, ass_cp):
     e uma assinatura ass_cp e deve devolver o numero (1 a n) do texto com maior probabilidade
     de ter sido infectado por COH-PIAH.'''
 
-    i = 1
-    # ASS_TEXTO = TEXTO DIGITADO | SIMILARIDADE = VAI COMPARAR O TEXTO DIGITADO COM OS VALORES PADRÕES
-    ass_texto = calcula_assinatura(textos[i])
-    similaridade = compara_assinatura(ass_texto, ass_cp)
+    # COMPARA OS TEXTOS E DEFINE O GRAU DE SIMILARIDADE DE CADA UM
+    total_textos = len(textos)
+    grau_similaridade = []
+    for t in range(total_textos):
+        ass_texto = calcula_assinatura(textos[t])
+        similaridade = compara_assinatura(ass_texto, ass_cp)
+        grau_similaridade.append(similaridade)
 
     # A SIMILARIDADE VAI DEFINIR O MENOR NÍVEL DE PROXIMIDADE DOS TEXTOS
-    menor = similaridade
 
+    i = 1
+    menor_nivel = grau_similaridade[0] #Pega o grau de similaridade da primeira posição
+    infectado = i #texto infectado vai ser igual a i
 
-    texto_copiado = i
-    i += 1
-    while i < (len(textos)):
-        ass_texto = calcula_assinatura(textos[i])
-        similaridade = compara_assinatura(ass_texto, ass_cp)
-        if similaridade < menor:
-            menor = similaridade
-            texto_copiado = i
-        i = i + 1
+    while i < len(grau_similaridade): #enquanto o valor de i for menor que o comprimento de similaridades da lista
+        if grau_similaridade[i] < menor_nivel: # Se o grau de similaridade for menor que o menor_nivel:
+            menor_nivel = grau_similaridade[i] # O menor nivel vai pegar o grau de similaridade daquela posição
+            infectado = (i+1)
+        i += 1
 
-    print(f"O autor do texto {texto_copiado} está infectado com COH-PIAH")
-    return texto_copiado
+    print(f"O autor do texto {infectado} está infectado com COH-PIAH")
+    return infectado
