@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Resolução da semana 9 e fim do curso">
+    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Aula de Matrizes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Mundo 1/Exercícios/temp.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Digitalen-Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +69,7 @@
       <recent name="C:\Github\Python\Curso\Aulas\Exercícios extras de aulas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.model">
+  <component name="RunManager" selected="Python.matriz">
     <configuration name="coh_piah" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dissecando_variavel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lerMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Video/Mundo 1/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coursera/Parte 2/Aulas/Matrizes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Video/Mundo 1/Exercícios/dissecando_variavel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coursera/Parte 2/Aulas/Matrizes/lerMatriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inverte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso/Desafios/Semana 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coursera/Parte 2/Aulas/Matrizes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso/Desafios/Semana 8/inverte.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coursera/Parte 2/Aulas/Matrizes/matriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matriz" />
+        <item itemvalue="Python.lerMatriz" />
         <item itemvalue="Python.model" />
         <item itemvalue="Python.coh_piah" />
         <item itemvalue="Python.temperaturas" />
-        <item itemvalue="Python.dissecando_variavel" />
-        <item itemvalue="Python.inverte" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +425,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621104147486</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Ambiente Virtual">
+      <created>1629417441737</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1629417441737</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Aula de Matrizes">
+      <created>1629658160602</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1629658160603</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,8 +455,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Instalação do PyTest e exemplo" />
-    <MESSAGE value="Exercicio de avaliação - semana 5" />
     <MESSAGE value="Exercício Vogais - Avaliativo" />
     <MESSAGE value="Exercicios de desafio" />
     <MESSAGE value="Avaliação da Semana 6 - JOGO NIM" />
@@ -467,7 +478,9 @@
     <MESSAGE value="Exercicio para testar o tipo e formataçãod de texto" />
     <MESSAGE value="Atividade da semana 9 ainda sem solução" />
     <MESSAGE value="Resolução da semana 9 e fim do curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução da semana 9 e fim do curso" />
+    <MESSAGE value="Ambiente Virtual" />
+    <MESSAGE value="Aula de Matrizes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula de Matrizes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
