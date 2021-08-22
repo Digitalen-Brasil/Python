@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Aula de Matrizes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="aa2aaf2d-4e99-4f79-b679-d02e8553865a" name="Default Changelist" comment="Arrumando pastas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -439,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629658160603</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Arrumando pastas">
+      <created>1629659117740</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1629659117740</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +460,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercício Vogais - Avaliativo" />
     <MESSAGE value="Exercicios de desafio" />
     <MESSAGE value="Avaliação da Semana 6 - JOGO NIM" />
     <MESSAGE value="Correção de código no Bhaskara_func" />
@@ -480,7 +484,8 @@
     <MESSAGE value="Resolução da semana 9 e fim do curso" />
     <MESSAGE value="Ambiente Virtual" />
     <MESSAGE value="Aula de Matrizes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula de Matrizes" />
+    <MESSAGE value="Arrumando pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrumando pastas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
