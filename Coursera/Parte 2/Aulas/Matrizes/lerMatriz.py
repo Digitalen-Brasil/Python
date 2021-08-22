@@ -1,5 +1,5 @@
-def cria_matriz(num_linhas,num_colunas,valor):
-    ''' (int, int, valor) -> Cria uma matriz (lista de listas)
+def cria_matriz(num_linhas,num_colunas):
+    ''' (int, int) -> Cria uma matriz (lista de listas)
     num_linhas -> Vai armazenar um valor inteiro (int) com o número de linhas
     num_colunas -> Vai armazenar um valor inteiro (int) com o número de colunas '''
 
@@ -11,15 +11,26 @@ def cria_matriz(num_linhas,num_colunas,valor):
         linha = [] #lista vazia
         for j in range(num_colunas):
             ''' Dentro do range (num_colunas) vai adicionar as linhas'''
+            valor = int(input(f'Digite o valor do item na linha {i} e coluna {j}: '))
             linha.append(valor)
 
         # Adiciona linha a matriz
         matriz.append(linha)
 
-    print(matriz)
-    return matriz
+    return impressão(matriz, num_linhas,num_colunas)
+
+def impressão(matriz,num_linhas,num_colunas):
+    """Para imprimir no formato visual correto.
+    """
+    for i in range(num_linhas):
+        for j in range(num_colunas):
+            print(f'[{matriz[i][j]:^5}]',end=' ')
+        print()
+
 
 def main():
-    cria_matriz(1,3,99)
+    lin = int(input('Digite o número de linhas: '))
+    col = int(input('Dgite o número de colunas: '))
+    cria_matriz(lin,col)
 
 main()
